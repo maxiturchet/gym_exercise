@@ -2,7 +2,7 @@
   "name": "fitness_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https//maxiturchet.github.io/gym_exercise",
+  "homepage": "https://maxiturchet.github.io/gym_exercise",
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
