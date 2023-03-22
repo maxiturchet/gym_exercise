@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//maxiturchet.github.io/gym_exercise/static/css/main.20acbc28.css",
+    "main.js": "/https//maxiturchet.github.io/gym_exercise/static/js/main.dea1e442.js",
+    "static/media/banner.png": "/https//maxiturchet.github.io/gym_exercise/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/https//maxiturchet.github.io/gym_exercise/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/https//maxiturchet.github.io/gym_exercise/index.html",
+    "main.20acbc28.css.map": "/https//maxiturchet.github.io/gym_exercise/static/css/main.20acbc28.css.map",
+    "main.dea1e442.js.map": "/https//maxiturchet.github.io/gym_exercise/static/js/main.dea1e442.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20acbc28.css",
+    "static/js/main.dea1e442.js"
+  ]
+}
