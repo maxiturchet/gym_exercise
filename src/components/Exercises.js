@@ -11,6 +11,7 @@ const Exercises = ({ exercises, setExercises, bodyPart }) => {
   const [exercisesPerPage] = useState(6);
 
   useEffect(() => {
+    const hola = "hola";
     const fetchExercisesData = async () => {
       let exercisesData = [];
 
